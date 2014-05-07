@@ -1,1 +1,1 @@
-<img class="img-responsive" src="<%= image_path "9.jpg" %>"/>
+<img class="img-responsive" src="<%= image_path "getty_rf_photo_of_kitten_playing_with_toy" %>"/>
